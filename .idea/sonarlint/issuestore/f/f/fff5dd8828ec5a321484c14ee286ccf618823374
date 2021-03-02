@@ -1,0 +1,8 @@
+
+C
+java:S1481-"&Remove this unused "d" local variable.(í»«ô8å€¶Èý.
+I
+java:S1172*",Remove this unused method parameter "steps".(Õ…áŸ8ã²üÆý.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Øö†¾8ˆó‚Çý.
+H
+java:S1481,"&Remove this unused "u" local variable.(†òá—þÿÿÿÿ8å€¶Èý.
